@@ -1,2 +1,2 @@
-# StreamAndLandas
-Stream and Lambas
+# StreamAndLambdas
+Stream and Lambdas
